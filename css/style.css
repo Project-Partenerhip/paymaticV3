@@ -202,7 +202,7 @@ text-decoration: none;
 
 	font-weight: 600;
 
-    letter-spacing: 0.1em;
+    letter-spacing: 0.02em;
 
 	font-family: 'Audiowide', cursive;
 
@@ -262,7 +262,7 @@ text-decoration: none;
 
         height: 100vh;
 
-        justify-content: center;
+        justify-content: space-around;
 
         color: white;
 
